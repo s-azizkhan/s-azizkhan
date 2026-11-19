@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/s-azizkhan/s-azizkhan/main/assets/profile-header.svg" width="100%" alt="Aziz Khan — Software Engineer, AI and SaaS Product Builder" />
+<img src="https://raw.githubusercontent.com/s-azizkhan/s-azizkhan/main/assets/profile-header.svg" width="100%" alt="Aziz Khan — Software Engineer and Product Builder" />
 
 <br/>
 
@@ -12,113 +12,85 @@
 
 ---
 
-## About Aziz
+## Hey, I'm Aziz.
 
-I'm a software engineer and product builder working across **backend engineering, full-stack development, SaaS, and AI-powered applications**.
+I'm a software engineer who enjoys building things — especially when there's a real problem behind the idea.
 
-I enjoy taking an idea from an unclear problem to a useful product: understanding the user, exploring possible solutions, building the first version, and improving it through real feedback.
+Over the past few years, I've worked across backend and full-stack development, built APIs and integrations, and explored products in SaaS and AI. I usually find myself interested in more than just the code: the problem, the people using the product, and whether what we're building is actually useful.
 
-My engineering experience includes TypeScript, JavaScript, Node.js, Python, PHP, Laravel, React, Next.js, APIs, databases, cloud platforms, and AI integrations.
+Most of my day-to-day work has involved TypeScript, JavaScript, Node.js, Python, PHP, React, databases, and cloud services. I'm always picking up something new when a project calls for it.
 
-I’m interested in both the technical and product sides of building: not just how something works, but whether it solves a problem worth solving.
+## Things I enjoy building
 
-## What I work on
+- **Backend systems:** APIs, integrations, databases, and services that are reliable and easy to maintain.
+- **Web products:** Full-stack applications, SaaS tools, and MVPs.
+- **AI-powered features:** LLM integrations, RAG experiments, and useful automation — not AI for the sake of adding AI.
+- **Early product ideas:** Taking a rough idea, figuring out what matters, and building something people can try.
 
-- **Backend engineering:** Node.js, TypeScript, Python, PHP, Laravel, REST APIs, GraphQL
-- **Full-stack development:** React, Next.js, JavaScript, application architecture
-- **AI engineering:** LLM integrations, retrieval-augmented generation (RAG), AI-powered workflows and automation
-- **Data and infrastructure:** PostgreSQL, MySQL, Redis, Docker, AWS, Google Cloud
-- **Product development:** SaaS products, MVPs, developer tools, integrations, and early-stage product experiments
+## A few things I've worked on
 
-## Selected work
-
-A selection of products, experiments, and repositories. Each project README contains its own implementation details and current status.
-
-| Project | Focus |
+| Project | A little about it |
 |:--|:--|
-| [Uxlyze](https://github.com/s-azizkhan/uxlyze-next-web) | AI-assisted website UI/UX analysis |
-| [WishNex](https://github.com/s-azizkhan/WishNex) | Community-focused web product |
-| [Zippy](https://github.com/s-azizkhan/zippy) | Product experiment |
-| [Pavly](https://github.com/s-azizkhan/pavly) | Product experiment |
-| [Foxly Flow](https://github.com/s-azizkhan/foxly-flow) | Software project |
-| [FoxCOD](https://github.com/s-azizkhan/FoxCOD) | Software project |
+| [Uxlyze](https://github.com/s-azizkhan/uxlyze-next-web) | Exploring how AI can help evaluate website experiences. |
+| [WishNex](https://github.com/s-azizkhan/WishNex) | A community-focused product. |
+| [Zippy](https://github.com/s-azizkhan/zippy) | One of my product experiments. |
+| [Pavly](https://github.com/s-azizkhan/pavly) | Another idea I've been exploring. |
+| [Foxly Flow](https://github.com/s-azizkhan/foxly-flow) | A software project and experiment. |
+| [FoxCOD](https://github.com/s-azizkhan/FoxCOD) | Exploring e-commerce tooling. |
 
-[Explore all repositories →](https://github.com/s-azizkhan?tab=repositories)
+These are a mix of products, experiments, and learning projects. Have a look through the repositories for the code and details.
 
-## How I think
+[See all my repositories →](https://github.com/s-azizkhan?tab=repositories)
 
-> A quiet, clear mind is one of the most valuable things you can protect.
+## A few thoughts I come back to
 
-> Imagination is one of the things that makes us human — and makes each of us different.
+> A quiet mind is a valuable thing. Make room for it.
 
-> Don't fall in love with perfection. Validate the idea first. Let people experience it, learn from them, and solve the problem that actually matters.
+> Imagination is what lets us see possibilities that aren't here yet. It's also what makes each of us see the world a little differently.
 
-These are the principles I try to bring into both engineering and product decisions.
+> Don't chase perfection before you know there's a need. Put the idea in front of people, let them try it, and learn whether it solves a real problem.
 
-## My approach to building
+These aren't rules I follow perfectly. They're reminders I try to keep close.
 
-I prefer learning from reality over polishing assumptions.
+## How I usually approach an idea
 
-1. **Understand the problem** — identify who has the problem, why it matters, and what they do today.
-2. **Imagine possibilities** — explore different ways to solve the problem before committing to one.
-3. **Validate early** — test the riskiest assumptions with real users or a small experiment.
-4. **Build the smallest useful version** — focus on the core experience instead of unnecessary features.
-5. **Put it in people's hands** — let users experience it, observe where it helps or fails, and listen carefully.
-6. **Improve with evidence** — refine the product based on actual usage and feedback, not the pursuit of perfection.
+I like to start simple. First, understand the problem and who has it. Then explore possible solutions, build a small version, and get it in front of people as early as possible.
 
-## Beyond the keyboard
+What happens next matters more than the original plan: watch how people use it, listen to what they say, fix what's not working, and keep improving.
 
-Not every good idea comes from staring at a screen.
+I'd rather learn from a real user than spend weeks polishing something nobody has asked for.
 
-- **Travel & exploration:** discovering new places, cultures, and perspectives.
-- **Food exploration:** trying new dishes and discovering local food wherever I go.
-- **Business brainstorming:** thinking about business models, product opportunities, and problems that could become useful products.
+## Away from the screen
 
-Exploring places and trying unfamiliar things gives me fresh perspectives. Brainstorming business ideas keeps me curious about the problems people face and the products that could solve them.
+When I'm not coding, I enjoy travelling, exploring unfamiliar places, and trying local food or dishes I've never had before.
 
-## What I'm exploring
+I also spend a fair amount of time brainstorming business ideas. Sometimes it's a product idea, sometimes just wondering why something works the way it does — and whether there's a better way to do it.
 
-I'm curious about the intersection of software, AI, and product building — especially practical AI applications, automation, developer tools, and new ways to turn ideas into useful products.
+I think a change of place, a good conversation, or a new experience can lead to surprisingly good ideas.
 
-I value thoughtful experimentation, learning in public, and sharing what I discover through projects and code.
+## What I'm curious about lately
 
-## Collaboration
+I'm spending time around AI-powered products, automation, developer tools, and the ways software can make everyday work simpler. I enjoy learning by experimenting and building small things rather than only reading about them.
 
-I'm open to connecting with:
+## Always happy to meet good people
 
-- **Early-stage founders** who need a hands-on engineering partner to shape and build a product.
-- **YC founders and startup teams** looking for a technical collaborator.
-- **Engineers and AI builders** interested in exchanging ideas or building useful open-source projects.
-- **Teams hiring software engineers** across backend, full-stack, SaaS, and AI product development.
+I'm interested in meeting founders, especially people at the early stages of building something, who want a technical person to think through the problem and help bring the product to life.
 
-I can contribute across technical discovery, architecture, backend and full-stack implementation, integrations, and getting an MVP into users' hands.
+I'm also open to conversations with YC founders, engineers, and teams working on interesting problems — whether that's a potential collaboration, an open-source project, or a software engineering opportunity.
 
-If you're working on a meaningful problem, I'd be glad to hear about it.
+If something you're building sounds interesting, feel free to reach out. I'd be glad to hear about it.
 
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=s-azizkhan&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&ring_color=ffffff" alt="GitHub profile statistics for s-azizkhan" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-azizkhan&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&langs_count=8" alt="Most used programming languages on s-azizkhan repositories" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=s-azizkhan&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=777777" alt="GitHub contribution streak for s-azizkhan" />
-
-</div>
-
-## Connect
+## Find me elsewhere
 
 - **Website:** [justaziz.com](https://justaziz.com)
-- **GitHub:** [github.com/s-azizkhan](https://github.com/s-azizkhan)
 - **LinkedIn:** [linkedin.com/in/sakat-aziz-khan](https://www.linkedin.com/in/sakat-aziz-khan/)
+- **Email:** [sakatazizkhan1@gmail.com](mailto:sakatazizkhan1@gmail.com)
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/justaziz.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://justaziz.com)
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakatazizkhan1@gmail.com)
 
-<sub>Build with imagination. Validate with people. Improve with purpose.</sub>
+<sub>Stay curious. Build things. Let people use them.</sub>
 
 </div>
