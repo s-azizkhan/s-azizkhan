@@ -1,0 +1,33 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity="0.08"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.08"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#fff" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="#050505"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <circle cx="1010" cy="145" r="145" stroke="#fff" stroke-opacity=".10"/>
+  <circle cx="1010" cy="145" r="105" stroke="#fff" stroke-opacity=".12" stroke-dasharray="3 8">
+    <animateTransform attributeName="transform" type="rotate" from="0 1010 145" to="360 1010 145" dur="48s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1010" cy="145" r="66" stroke="#fff" stroke-opacity=".18"/>
+  <path d="M865 145H1155" stroke="url(#fade)" stroke-width="1"/>
+  <path d="M1010 0V290" stroke="#fff" stroke-opacity=".12" stroke-width="1"/>
+  <circle cx="1010" cy="79" r="3" fill="#fff">
+    <animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M64 62H112" stroke="#fff" stroke-width="2"/>
+  <text x="64" y="112" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="15" letter-spacing="4">SOFTWARE ENGINEER  /  PRODUCT BUILDER</text>
+  <text x="60" y="188" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-2">AZIZ KHAN</text>
+  <text x="64" y="228" fill="#c9c9c9" font-family="Inter,Arial,sans-serif" font-size="19">Building useful software, scalable systems &amp; AI products.</text>
+  <text x="64" y="278" fill="#888" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" letter-spacing="2">IDEA  →  ENGINEERING  →  PRODUCT</text>
+  <rect x="64" y="296" width="1072" height="1" fill="#fff" fill-opacity=".18"/>
+  <rect x="64" y="295" width="120" height="2" fill="#fff">
+    <animate attributeName="x" values="64;1016;64" dur="12s" repeatCount="indefinite"/>
+  </rect>
+</svg>
